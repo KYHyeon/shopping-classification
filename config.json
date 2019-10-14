@@ -1,14 +1,6 @@
 {
     "train_data_list": [
-        "../train.chunk.01",
-        "../train.chunk.02",
-        "../train.chunk.03",
-        "../train.chunk.04",
-        "../train.chunk.05",
-        "../train.chunk.06",
-        "../train.chunk.07",
-        "../train.chunk.08",
-        "../train.chunk.09"
+        "../train.chunk.01"
     ],
     "dev_data_list": [
         "../dev.chunk.01"
